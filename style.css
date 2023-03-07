@@ -1,0 +1,16 @@
+*{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+.imgRedonda{
+    border-radius: 50%;
+}
+#perfil{
+    background-color: aquamarine;
+}
+#parte1{
+    background-color: rgb(238, 76, 76);
+    border-radius: 50%;
+}
