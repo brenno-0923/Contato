@@ -1,16 +1,22 @@
 *{
-    color: rgb(0, 0, 0);
-    text-align: center;
+    color: rgb(7, 5, 5); 
+    
     
 }
-
 .imgRedonda{
     border-radius: 50%;
 }
 #perfil{
-    background-color: aquamarine;
+    background-color: rgb(79, 252, 194); 
 }
-#parte1{
-    background-color: rgb(238, 76, 76);
-    border-radius: 50%;
+
+input[type="submit"]{
+
+    padding: 10px 500px;
+    font-size: 24px;
+    display: flex;
+    background-color: rgb(2, 1, 1);
+    border: 1px solid rgb(10, 12, 12);
+    border-radius: 50px;
+    color: rgb(240, 235, 235);
 }
